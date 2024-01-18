@@ -4,9 +4,9 @@ Used CRUD operations to implement all the database operations.
 
 ASSIGNMENT BY:-
 
-&#10004; ##KIBUR E
-&#10004; ##KIRUBEL D
-&#10004; ##MOHAMMED S
+&#10004; KIBUR E,
+&#10004; KIRUBEL D,
+&#10004; MOHAMMED S,
 
 ## Features
 1) Adding students names
